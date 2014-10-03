@@ -1,0 +1,6 @@
+<svg>
+	<metadata x="0" y="0" color="#000000" font-size="15"></metadata>
+	<g x="0" y="0" id="label" class="dragger-handler" >
+		<text x="0" y="10" fill="#000" font-size="15">Label</text>
+	</g>
+</svg>
