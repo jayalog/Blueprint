@@ -1,0 +1,7 @@
+<svg>
+    <metadata x="0" y="0" width="100" height="30" bgcolor="#F7941D" color="#ff0000"></metadata>
+	<g id="button" class="dragger-handler">
+		<rect x="0" y="0" width="100" height="30" rx="3" ry="3" style="fill:#F7941D;"/>
+		 <text x="30" y="20" fill="#000" font-size="14">Button</text>
+	</g>
+</svg>

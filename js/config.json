@@ -1,0 +1,36 @@
+{
+	"state":{
+		"initialScreen":"init",
+	    "init":{
+			"name":"init",
+			"url":"templates/homescreen.html"
+		},
+		"mainState":{
+		   "name":"main",
+		   "url":"templates/main.html"	
+		}
+	},
+	"svg" : {
+		"button" : {
+			"factoryName":"Button",
+			"url":"components/button.svg"
+			},
+		"label" : {
+			"factoryName":"Label",
+			"url":"components/label.svg"
+			} ,
+		"textfield" : {
+			"factoryName":"TextField",
+			"url":"components/textfield.svg"
+			},
+		"textarea" : {
+			"factoryName":"TextArea",
+			"url":"components/textarea.svg"
+			}
+	},
+	"elementOption" : {
+		"svg" : "templates/svgOptions.html",
+		"button" : "templates/buttonOptions.html",
+		"label" : "templates/labelOptions.html"
+	}
+}
